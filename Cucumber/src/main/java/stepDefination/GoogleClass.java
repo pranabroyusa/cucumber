@@ -16,12 +16,11 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-<<<<<<< HEAD
-// Pranab Roy
+//Pranab K Roy
 // Manisha Roy
-=======
-// Pranab K Roy
->>>>>>> branch 'master' of https://github.com/pranabroyusa/cucumber.git
+
+
+
 public class GoogleClass {
 WebDriver driver;
 /*	@Given("^User navigate to google$")
